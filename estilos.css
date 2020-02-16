@@ -1,0 +1,10 @@
+body {background-color:#cc0099; font-family:Verdana}
+h1{font.size:300%; text-align:center}
+h2{background-color:white}
+p{background-color:#00ffff; width=80%; padding: 50px 50px 50px 50px; border:solid; border-color:black; border-radius:20px}
+img{border-radius:"10px";}
+
+
+#encabezadoPrincipal{font-weight: bold; font-size: 400%; text-align: center;}
+
+.parrafoRosa{background-color:#ff33fc; width=80%; padding: 50px 50px 50px 50px; border:solid; border-color:black; border-radius:20px}
